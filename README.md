@@ -1,5 +1,5 @@
 # MicroMasters UC San Diego Data Science
-![alt text](https://github.com/faizalazman/MicroMasters-UC-San-Diego-Data-Science/blob/master/DSE200x%20Python%20for%20Data%20Science/UCSD-logo.png)
+![alt text](https://github.com/faizalazman/MicroMaster-UC-San-Diego-Data-Science/blob/master/DSE200x%20Python%20for%20Data%20Science/UCSD-logo.png)
 
 # DSE200x Python for Data Science
 About this course
