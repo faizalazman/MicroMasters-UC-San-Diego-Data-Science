@@ -2,6 +2,9 @@
 ![alt text](https://github.com/faizalazman/MicroMaster-UC-San-Diego-Data-Science/blob/master/DSE200x%20Python%20for%20Data%20Science/UCSD-logo.png)
 
 # DSE200x Python for Data Science
+# DSE210x Statistics and Probability in Data Science using Python
+# DSE220x Fundamental of Machine Learning
+# DSE230x Big Data Analytics using Spark
 About this course
 In the information age, data is all around us. Within this data are answers to compelling questions across many societal domains (politics, business, science, etc.). But if you had access to a large dataset, would you be able to find the answers you seek?
 
@@ -26,4 +29,6 @@ What you'll learn
   - An applied understanding of how to manipulate and analyze uncurated datasets
   - Basic statistical analysis and machine learning methods
   - How to effectively visualize results
+  
+
 
