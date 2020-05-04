@@ -31,4 +31,4 @@ What you'll learn
   - How to effectively visualize results
   
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/faizalazman/MicroMasters-UC-San-Diego-Data-Science/master?filepath=https%3A%2F%2Fgithub.com%2Ffaizalazman%2FMicroMasters-UC-San-Diego-Data-Science%2Fblob%2Fmaster%2FDSE200x%2520Python%2520for%2520Data%2520Science%2FWeek%25206%2520Mini%2520Projects%2FNotebook.ipynb)
